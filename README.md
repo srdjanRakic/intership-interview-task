@@ -1,12 +1,13 @@
 # Build a Quiz App with HTML, CSS, and JavaScript
 
-![Quiz App](https://res.cloudinary.com/practicaldev/image/fetch/s--ezLB_H9---/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.imgur.com/WNmYAI2.jpg)
 
 ## 1. Create and Style the Home Page
 
 Create the home page along with a good chunk of the necessary CSS.
 
 I encourage you all to take a look at Emmet snippets for generating HTML and CSS.
+
+![Quiz App](./home-page.png)
 
 Resources
 
