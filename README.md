@@ -7,7 +7,7 @@ Create the home page along with a good chunk of the necessary CSS.
 
 I encourage you all to take a look at Emmet snippets for generating HTML and CSS.
 
-![Quiz App](./home-page.png)
+![Home Page](./home-page.png)
 
 Resources
 
@@ -15,11 +15,7 @@ Resources
 - [Understanding REM Units](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-## 2. Create and Style the Game Page
-
-Create the Game Page and display static question and answer information.
-
-## 3. Display Hard Coded Question and Answers
+## 2. Display Hard Coded Question and Answers
 
 Load questions from a hard coded array and iterate through available questions as the use answers them.
 
@@ -32,7 +28,7 @@ Resources
 - [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
-## 4. Display Feedback for Correct/Incorrect Answers
+## 3. Display Feedback for Correct/Incorrect Answers
 
 Check the user's answer for correctness and display feedback to the user before loading the next question.
 
@@ -41,7 +37,7 @@ Resources
 - [Bootstrap 4 Colors](https://www.w3schools.com/bootstrap4/bootstrap_colors.asp)
 - [Triple vs Double Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
 
-## 5. Create Head's Up Display (HUD)
+## 4. Create Head's Up Display (HUD)
 
 Create a Heads Up Display (HUD) for our quiz app. This will display the user's score and current question number.
 
@@ -50,9 +46,11 @@ Resources
 - [ES6 Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 
-## 6. Create and Style the End Page
+## 5. Create and Style the End Score Page
 
 Create our End page where we will display the user's achieved score. This screen will provide a form for saving the score and links for playing again or going home.
+
+![Score Page](./score-page.png)
 
 ## Bonus
 
