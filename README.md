@@ -50,7 +50,7 @@ Resources
 
 Create our End page where we will display the user's achieved score. This screen will provide a form for saving the score and links for playing again or going home.
 
-![Score Page](./score-page.png)
+![Score Page](./score-page-screen.png)
 
 ## Bonus
 
